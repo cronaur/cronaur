@@ -1,3 +1,3 @@
 # (´･ω･`)
 
-<img src="/images/tammy.png">
+<Img src="/Images/tammy.png">
